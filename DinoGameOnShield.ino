@@ -72,7 +72,6 @@ void setup() {
   lcd.createChar(0, dino);
   lcd.createChar(1, cacti);
   lcd.createChar(2, bird);
-  lcd.createChar(3,  block);
   pinMode(A0, INPUT);
   pinMode(A1, INPUT);
   pinMode(13, OUTPUT);
