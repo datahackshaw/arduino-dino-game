@@ -47,7 +47,7 @@ The LCD Keypad Shield uses the following pins:
 
 ## Screenshots
 
-
+<img width="1185" height="1548" alt="image" src="https://github.com/user-attachments/assets/f00ebf58-52a4-4533-b710-c1d95b12786d" />
 
 ## Customization
 
